@@ -1,6 +1,8 @@
 # 🐥 Weight Tracker Mobile App
 
 Track your daily weight, view trends with charts and calendars, and manage your health with a simple UI.
+🔗 Live URL (Expo EAS Update):
+👉 https://expo.dev/accounts/jinorjiny/projects/weight-tracker-clean
 
 ## 📱 Built With
 - React Native (Expo)
