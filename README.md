@@ -22,3 +22,4 @@ Scan with **Expo Go app** (Android/iOS) or open directly in the browser.
 - 📆 Calendar of past entries
 - 🗑️ Delete weight entries
 - ⚡ Real-time sync with Firebase
+![Uploading WeightTrackerMobile.jpg…]()
