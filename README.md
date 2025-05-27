@@ -21,5 +21,4 @@ Scan with **Expo Go app** (Android/iOS) or open directly in the browser.
 - 📊 View weight trend (chart)
 - 📆 Calendar of past entries
 - 🗑️ Delete weight entries
-- ⚡ Real-time sync with Firebase
-![Uploading WeightTrackerMobile.jpg…]()
+- ⚡ Real-time sync with Firebase![WeightTrackerMobile](https://github.com/user-attachments/assets/a6fc0ad1-8115-4d86-88b1-53bf8c3687a5)
